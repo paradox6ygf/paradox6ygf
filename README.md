@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I'm Dipayan<br><br>🚀 A curious developer who loves building modern web apps, automation tools, and scalable backend systems. I enjoy turning ideas into real projects and constantly exploring new technologies.<br><br>💻 I work across **frontend and backend**, focusing on clean code, performance, and practical solutions.<br><br>### 🛠 Tech I Work With<br><br>`C#` `C++` `Go` `Java` `Python` `TypeScript` `JavaScript`<br>`HTML` `CSS` `Express.js` `Node.js` `Nginx`<br>`MongoDB` `MySQL` `SQLite`<br>`AWS` `OVH` `Oracle`<br><br>✨ Always learning, always building.<br>
+👋 hi, i'm dipayan<br><br>🚀 a curious developer who enjoys building modern web apps, automation tools, and scalable backend systems.<br><br>i like turning ideas into real projects and exploring new technologies while improving my coding skills.<br><br>💻 tech i work with<br>`c#` `c++` `go` `java` `python` `typescript` `javascript` `html` `css`<br>`node.js` `express.js` `nginx`<br>`mongodb` `mysql` `sqlite`<br>`aws` `ovh` `oracle`<br><br>✨ always learning and building new things<br>
 
 
 ## 🌐 Socials:
